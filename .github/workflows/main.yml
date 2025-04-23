@@ -71,9 +71,7 @@ jobs:
         with:
           src: 'github/1757580896'    			
           dst: 'gitee/sunjianw022'   
-          dst_key: ${{ secrets.git config --global user.email '12961159+sunjianw022@user.noreply.gitee.com' }}  
-          dst_token:  ${{ secrets.git config --global user.name 'sunjian'  }}  
+          dst_key: ${{ secrets.AAAAC3NzaC1lZDI1NTE5AAAAIMuzheIPk4Gq8kQUZ8djq4u59wWtyLlhkmeMtg }}    
           force_update: true
-          static_list: "iptv-api1"
-          account_type: org   		
+          static_list: "iptv-api1"  		
           debug: true
