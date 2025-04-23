@@ -33,5 +33,5 @@ https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
 https://tv.iill.top/m3u/Gather
 https://d.kstore.dev/download/9524/%E8%AE%B4%E6%AD%8C.txt
-https://github.com/mytv-android/China-TV-Live-M3U8/blob/main/tv.m3u
-https://github.com/mytv-android/China-TV-Live-M3U8/blob/main/webview.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/tv.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/webview.m3u
