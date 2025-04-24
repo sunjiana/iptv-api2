@@ -71,7 +71,9 @@ jobs:
         with:
           src: 'github/1757580896'    			
           dst: 'gitee/sunjianw022'   
-          dst_key: ${{ secrets.jWg7csRby1uweiyBneieJDT3WfI00Ohusiz2UUxWvhs }}  
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
+          dst_token:  ${{ secrets.GITEE_TOKEN }}    
           force_update: true
-          static_list: "iptv-api1"  		
+          static_list: "iptv-api1"  	
+          account_type: org 
           debug: true
