@@ -75,4 +75,3 @@ jobs:
           dst_token:  ${{ secrets.GITEE_TOKEN }}  
           force_update: true
           static_list: "iptv-api1"   		
-          debug: true
