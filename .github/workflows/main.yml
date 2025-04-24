@@ -1,4 +1,4 @@
-name: 'Update schedule'
+7name: 'Update schedule'
 
 on:
   schedule:
@@ -71,7 +71,7 @@ jobs:
         with:
           src: 'github/1757580896'    			
           dst: 'gitee/sunjianw022'   
-          dst_key: ${{ AAAAC3NzaC1lZDI1NTE5AAAAIMuzheIPk4Gq8kQUZ8djq4u59wWtyLlhkmeMtg/Ezz2K }}    
+          dst_key: ${{ secrets.jWg7csRby1uweiyBneieJDT3WfI00Ohusiz2UUxWvhs }}  
           force_update: true
           static_list: "iptv-api1"  		
           debug: true
