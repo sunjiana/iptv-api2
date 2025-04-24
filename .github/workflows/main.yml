@@ -1,4 +1,4 @@
-7name: 'Update schedule'
+name: 'Update schedule'
 
 on:
   schedule:
@@ -69,11 +69,11 @@ jobs:
       - name: Mirror the Github organization repos to Gitee.
         uses: Yikun/hub-mirror-action@master
         with:
-          src: 'github/1757580896'    			
-          dst: 'gitee/sunjianw022'   
+          src: 'github/mytv-android'    			
+          dst: 'gitee/mytv-android'   
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
-          dst_token:  ${{ secrets.GITEE_TOKEN }}    
+          dst_token:  ${{ secrets.GITEE_TOKEN }}  
           force_update: true
-          static_list: "iptv-api1"  	
-          account_type: org 
+          static_list: "iptv-api"
+          account_type: org   		
           debug: true
