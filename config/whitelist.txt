@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/mai
 https://tv.iill.top/m3u/Gather
 https://d.kstore.dev/download/9524/%E8%AE%B4%E6%AD%8C.txt
 https://gh-proxy.com/raw.githubusercontent.com/1757580896/my-iptv/main/IPTV-ipv4.m3u
+https://raw.githubusercontent.com/1757580896/my-iptv/main/IPTV-ipv6.m3u
