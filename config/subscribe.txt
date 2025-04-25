@@ -37,3 +37,12 @@ https://gh-proxy.com/raw.githubusercontent.com/1757580896/my-iptv/main/IPTV-ipv4
 https://live.fanmingming.cn/tv/m3u/demo.m3u
 https://raw.githubusercontent.com/1757580896/my-iptv/main/IPTV-ipv6.m3u
 https://xn--6ni-mf3g9f.v.nxog.top/m/tv/
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://raw.githubusercontent.com/ldm0206/iptv-api/refs/heads/master/config/rtp/rtp.m3u
+https://raw.githubusercontent.com/0047ol/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+https://gitee.com/liliang74120/cxkj6863/raw/master/mySD
+http://8.138.7.223/v12.txt
+https://gitee.com/lixiao-1-98/iptv/raw/master/ipv6.txt
