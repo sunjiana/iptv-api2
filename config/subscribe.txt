@@ -46,3 +46,4 @@ https://raw.githubusercontent.com/0047ol/China-TV-Live-M3U8/refs/heads/main/tv.m
 https://gitee.com/liliang74120/cxkj6863/raw/master/mySD
 http://8.138.7.223/v12.txt
 https://gitee.com/lixiao-1-98/iptv/raw/master/ipv6.txt
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/main/BRTV.m3u
