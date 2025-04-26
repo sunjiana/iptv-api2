@@ -39,3 +39,4 @@ https://gh-proxy.com/raw.githubusercontent.com/1757580896/my-iptv/main/IPTV-ipv4
 https://live.fanmingming.cn/tv/m3u/demo.m3u
 https://xn--6ni-mf3g9f.v.nxog.top/m/tv/
 https://raw.githubusercontent.com/ldm0206/iptv-api/refs/heads/master/config/rtp/rtp.m3u
+https://raw.githubusercontent.com/1757580896/tvtxt/main/itvlist.txt
