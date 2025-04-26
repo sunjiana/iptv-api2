@@ -51,3 +51,4 @@ https://raw.githubusercontent.com/ldm0206/iptv-api/refs/heads/master/config/rtp/
 https://gitee.com/lixiao-1-98/iptv/raw/master/ipv4.txt
 https://gitee.com/lixiao-1-98/iptv/raw/master/ipv6.m3u
 https://gitee.com/lixiao-1-98/iptv/raw/master/tv.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u
