@@ -59,3 +59,11 @@ https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/CUTV.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghfast.top/raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8V6.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/merged_output.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output_simple.m3u
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/others_output.txt
