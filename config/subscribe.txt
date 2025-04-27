@@ -58,3 +58,4 @@ https://ghfast.top/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/CUTV.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://ghfast.top/raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8V6.txt
