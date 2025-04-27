@@ -73,3 +73,6 @@ https://raw.githubusercontent.com/my-tv1/TVauto/Files/CNTV.m3u
 https://raw.githubusercontent.com/my-tv1/TVauto/Files/IPTV.m3u
 https://raw.githubusercontent.com/my-tv1/ds-tv/main/tvlist.txt
 https://raw.githubusercontent.com/my-tv1/ds-tv/main/itvlist.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist/main/CCTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist/main/CNTV.m3u
+https://raw.githubusercontent.com/my-tv1/Livelist/main/IPTV.m3u
