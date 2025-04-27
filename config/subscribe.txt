@@ -115,3 +115,11 @@ https://raw.githubusercontent.com/my-tv1/Livelist-1/main/CCTV.m3u
 https://raw.githubusercontent.com/my-tv1/Livelist-1/main/CNTV.m3u
 https://raw.githubusercontent.com/my-tv1/Livelist-1/main/IPTV.m3u
 https://raw.githubusercontent.com/my-tv1/Livelist-1/main/Livelist-QI.m3u
+https://raw.githubusercontent.com/my-tv1/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt
+https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.category.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.country.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.language.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.m3u
+https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.region.m3u
