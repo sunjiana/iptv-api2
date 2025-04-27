@@ -110,3 +110,4 @@ https://raw.githubusercontent.com/my-tv1/tvyuan/main/108P3P%E5%8E%9F%E5%8A%9B%E6
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%A4%AE%E5%8D%ABipv4.txt
 https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8ITV.txt
 https://raw.githubusercontent.com/my-tv1/IPTV-Multicast-source/main/live.txt
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Migu.m3u
