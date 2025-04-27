@@ -55,3 +55,4 @@ https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u
 https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
+https://ghfast.top/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
