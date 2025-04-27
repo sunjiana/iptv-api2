@@ -54,3 +54,4 @@ https://gitee.com/lixiao-1-98/iptv/raw/master/tv.txt
 https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u
 https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
