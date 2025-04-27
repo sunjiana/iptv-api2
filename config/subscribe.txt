@@ -94,3 +94,16 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.githubusercontent.com/my-tv1/tvauto2/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto2/main/live.txt
+https://raw.githubusercontent.com/my-tv1/tvauto2/refs/heads/main/live_lite.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto2/main/live_lite.txt
+https://raw.githubusercontent.com/my-tv1/sy-iptv/main/nmd.m3u
+https://raw.githubusercontent.com/my-tv1/sy-iptv/main/xf.m3u
+https://raw.githubusercontent.com/my-tv1/sy-iptv/main/ShaanxiTV.m3u
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E9%85%B79%E4%B8%93%E7%BA%BF.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%9F%8E%E5%BB%BA%E5%AD%A6%E9%99%A2TV.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%92%AA%E5%92%95.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/%E5%92%AA%E5%92%95%E7%A7%BB%E5%8A%A8.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/ITV%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+https://raw.githubusercontent.com/my-tv1/tvyuan/main/108P3P%E5%8E%9F%E5%8A%9B%E6%BA%90.txt
