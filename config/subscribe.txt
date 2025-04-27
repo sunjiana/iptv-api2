@@ -89,3 +89,8 @@ https://raw.githubusercontent.com/my-tv1/tvauto1/master/iptv%2B.m3u
 https://raw.githubusercontent.com/my-tv1/tvauto1/master/iptv.m3u
 https://raw.githubusercontent.com/my-tv1/tvauto1/master/live-china.m3u
 https://raw.githubusercontent.com/my-tv1/tvauto1/master/radio.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
