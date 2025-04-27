@@ -86,3 +86,6 @@ https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/daddylive-event
 https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/moveonjoy.m3u8
 https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/thetvapp.m3u8
 https://raw.githubusercontent.com/my-tv1/tvauto1/master/iptv%2B.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto1/master/iptv.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto1/master/live-china.m3u
+https://raw.githubusercontent.com/my-tv1/tvauto1/master/radio.m3u
