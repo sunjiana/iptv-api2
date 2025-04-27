@@ -67,3 +67,9 @@ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/merged_o
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/merged_output_simple.m3u
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/my-tv1/TVauto/Files/Adult.m3u
+https://raw.githubusercontent.com/my-tv1/TVauto/Files/CCTV.m3u
+https://raw.githubusercontent.com/my-tv1/TVauto/Files/CNTV.m3u
+https://raw.githubusercontent.com/my-tv1/TVauto/Files/IPTV.m3u
+https://raw.githubusercontent.com/my-tv1/ds-tv/main/tvlist.txt
+https://raw.githubusercontent.com/my-tv1/ds-tv/main/itvlist.m3u
