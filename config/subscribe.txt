@@ -140,3 +140,4 @@ https://raw.githubusercontent.com/my-tv1/tv-/main/ZB%E6%BA%90-250310.txt
 https://raw.githubusercontent.com/my-tv1/tv-/main/ccws.txt
 https://raw.githubusercontent.com/my-tv1/tv-/main/henayd.txt
 https://raw.githubusercontent.com/my-tv1/tv-/main/henm-iptv_20250201220705.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
