@@ -124,3 +124,4 @@ https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.language
 https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.m3u
 https://raw.githubusercontent.com/my-tv1/iptv/refs/heads/gh-pages/index.region.m3u
 https://raw.githubusercontent.com/1697366715/duankou/master/%E7%9B%B4%E6%92%AD.txt
+https://raw.githubusercontent.com/1697366715/iptv-api/master/output/result.m3u
