@@ -142,3 +142,4 @@ https://raw.githubusercontent.com/my-tv1/tv-/main/henayd.txt
 https://raw.githubusercontent.com/my-tv1/tv-/main/henm-iptv_20250201220705.txt
 https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
+https://xn--dkw0c.u.xn--dkw.xn--6qq986b3xl/m//tv/
