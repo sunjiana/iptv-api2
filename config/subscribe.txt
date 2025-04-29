@@ -191,3 +191,15 @@ https://freetv.fun/test_channels_china_national.txt
 https://freetv.fun/test_channels_china_national_new.txt	
 https://freetv.fun/test_channels_china_national_original.txt	
 https://freetv.fun/test_channels_china_national_original_new.txt
+https://freetv.fun/test_channels_china.m3u	
+https://freetv.fun/test_channels_china_new.m3u	
+https://freetv.fun/test_channels_china.txt	
+https://freetv.fun/test_channels_china_new.txt	
+https://freetv.fun/test_channels_china_original.txt	
+https://freetv.fun/test_channels_china_original_new.txt	
+https://freetv.fun/test_channels_macau.m3u	
+https://freetv.fun/test_channels_macau_new.m3u	
+https://freetv.fun/test_channels_macau.txt	
+https://freetv.fun/test_channels_macau_new.txt	
+https://freetv.fun/test_channels_macau_original.txt	
+https://freetv.fun/test_channels_macau_original_new.txt	
