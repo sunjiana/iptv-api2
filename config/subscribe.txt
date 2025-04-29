@@ -165,3 +165,8 @@ https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%81%E5%A4%A7%E8
 https://raw.githubusercontent.com/my-tv1/tv-/main/%E8%BE%BD%E5%AE%81%E9%9E%8D%E5%B1%B1%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
 https://raw.githubusercontent.com/my-tv1/tv-/main/%E9%BB%91%E9%BE%99%E6%B1%9FPLTV%E7%A7%BB%E5%8A%A8%2BCDN.m3u
 https://raw.githubusercontent.com/my-tv1/tv-/main/%E6%B7%B1%E5%9C%B3%E9%98%BF%E9%87%8C%E4%BA%91.txt
+https://raw.githubusercontent.com/my-tv1/tvv/main/iptv.m3u
+https://raw.githubusercontent.com/my-tv1/tvv/main/iptv.txt
+https://raw.githubusercontent.com/my-tv1/tvv/main/ipv6.m3u
+https://raw.githubusercontent.com/my-tv1/tvv/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/tvv/main/live.txt
