@@ -170,3 +170,5 @@ https://raw.githubusercontent.com/my-tv1/tvv/main/iptv.txt
 https://raw.githubusercontent.com/my-tv1/tvv/main/ipv6.m3u
 https://raw.githubusercontent.com/my-tv1/tvv/main/live.m3u
 https://raw.githubusercontent.com/my-tv1/tvv/main/live.txt
+https://raw.githubusercontent.com/my-tv1/tvvv/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/my-tv1/tvvv/main/live.txt
