@@ -204,3 +204,9 @@ https://freetv.fun/test_channels_macau.txt
 https://freetv.fun/test_channels_macau_new.txt	
 https://freetv.fun/test_channels_macau_original.txt	
 https://freetv.fun/test_channels_macau_original_new.txt	
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/CCTV.m3u
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/CNTV.m3u
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV-tvbox.txt
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV.m3u
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/m3u/IPTV-LT.m3u
