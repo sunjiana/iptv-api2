@@ -210,3 +210,4 @@ https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV-tvbox.txt
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/IPTV.m3u
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/m3u/IPTV-LT.m3u
+https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u # 欧歌源码地址
