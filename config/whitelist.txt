@@ -6,7 +6,8 @@ https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BR
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 https://tv.iill.top/m3u/Gather
 https://d.kstore.dev/download/9524/%E8%AE%B4%E6%AD%8C.txt
-https://ghfast.top/raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8V6.txt
 https://xn--6ni-mf3g9f.v.nxog.top/m/tv/
 https://raw.githubusercontent.com/ldm0206/iptv-api/refs/heads/master/config/rtp/rtp.m3u
+https://ghfast.top/raw.githubusercontent.com/1757580896/tvyuan/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8V6.txt
+
 
