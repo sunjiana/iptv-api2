@@ -43,7 +43,6 @@ https://xn--6ni-mf3g9f.v.nxog.top/m/tv/
 https://raw.githubusercontent.com/ldm0206/iptv-api/refs/heads/master/config/rtp/rtp.m3u
 https://raw.githubusercontent.com/1757580896/tvtxt/main/itvlist.txt
 https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
 https://ghfast.top/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
@@ -236,3 +235,9 @@ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E7%94%B5%E8%A7%86%E5%89%A7.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E8%8B%B1%E8%AF%AD%E9%A2%91%E9%81%93.txt
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://live.izbds.com/tv/iptv4.txt # 榴芒电视
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt
