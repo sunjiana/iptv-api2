@@ -218,7 +218,7 @@ https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freet
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_cctv.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_other.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_ws.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt # 解
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/custom/zhang.m3u
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/4K.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/AKTV.txt
