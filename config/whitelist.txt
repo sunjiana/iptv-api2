@@ -3,7 +3,7 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 https://1.v.nxog.top/m/tv/ou.txt # 欧歌cctv源
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
+https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt # 解
 https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
