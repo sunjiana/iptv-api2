@@ -246,3 +246,4 @@ https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt
 https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/ipv4/result.txt
 https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/result.txt
 https://raw.githubusercontent.com/sunjiana/ds/main/tvlist.txt
+https://raw.githubusercontent.com/sunjiana/ds/main/ds.txt
