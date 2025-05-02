@@ -33,7 +33,7 @@ http://wx.thego.cn/backup.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
-https://tv.iill.top/m3u/Gather
+# https://tv.iill.top/m3u/Gather 不能使用只能直接订阅使用
 https://d.kstore.dev/download/9524/%E8%AE%B4%E6%AD%8C.txt
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/tv.m3u
 https://github.com/mytv-android/China-TV-Live-M3U8/blob/main/webview.m3u
@@ -213,7 +213,7 @@ https://raw.githubusercontent.com/1757580896/Meroser_IPTV/main/m3u/IPTV-LT.m3u
 # https://ua.fongmi.eu.org/box.php?url=https://xn--dkw0c.v.nxog.top/m/tv  # 欧歌直接解密可以直接看到的
 # https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/live.php  # 我不是摸鱼儿已经加密了
 # https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live # 不知道的，但链接有效
-# https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather # yang-1989.eu.org的解码版本 (其实就是不二次跳转了) 这几个都在collect-tv-txt筛选过了
+# https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather # yang-1989.eu.org的解码版本 (其实就是不二次跳转了) 这几个都在collect-tv-txt筛选过了 解析版本也不能直接使用
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_cctv.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_other.txt
