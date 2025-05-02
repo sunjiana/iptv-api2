@@ -241,4 +241,5 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://live.izbds.com/tv/iptv4.txt # 榴芒电视
 https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt
+https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/ipv4/result.txt
 https://raw.githubusercontent.com/ldm0206/iptv-api/master/output/result.txt
