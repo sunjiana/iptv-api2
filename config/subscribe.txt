@@ -216,12 +216,12 @@ https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u 
 # https://ua.fongmi.eu.org/box.php?url=http://%E6%88%91%E4%B8%8D%E6%98%AF.%E6%91%B8%E9%B1%BC%E5%84%BF.com/live.php  我不是摸鱼儿已经加密了
 # https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live 不知道的，但链接有效
 # https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather yang-1989.eu.org的解码版本 (其实就是不二次跳转了) 这几个都在collect-tv-txt筛选过了
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_cctv.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_other.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_ws.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
-https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/custom/zhang.m3u
+# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output.txt
+# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_cctv.txt
+# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_other.txt
+# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/freetv/freetv_output_ws.txt
+# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/assets/special/special.txt
+# https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/custom/zhang.m3u
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/4K.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/AKTV.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/%E4%B8%93%E5%8C%BA/%E2%99%AAsports.txt
