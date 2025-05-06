@@ -35,6 +35,7 @@
 ☘️河北频道,#genre#
 
 ☘️贵州频道,#genre#
+清镇新闻综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 
 ☘️甘肃频道,#genre#
 
@@ -69,4 +70,4 @@
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-05-06 03:45:46,url
+2025-05-06 10:50:41,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
