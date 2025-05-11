@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt
+https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u
 https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt
 https://raw.githubusercontent.com/chunme/Live/main/hlj.m3u #888
 https://raw.githubusercontent.com/chunme/Live/main/mdj.m3u # PLtV
