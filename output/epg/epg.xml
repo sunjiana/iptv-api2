@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250511063320 +0800">
+<tv date="20250511101434 +0800">
 	<channel id="CCTV4K">
 		<display-name lang="zh">CCTV4K</display-name>
 	</channel>
@@ -28335,6 +28335,12 @@
 	<programme channel="黑莓动画" start="20250511111800 +0800" stop="20250511122200 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250511122200 +0800" stop="20250511134700 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250511134700 +0800" stop="20250511153500 +0800">
+		<title lang="zh">迷宫的十字路口 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -28361,6 +28367,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250511115500 +0800" stop="20250511133400 +0800">
 		<title lang="zh">世纪末的魔术师</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250511133400 +0800" stop="20250511150100 +0800">
+		<title lang="zh">混世四猴：神猴归来</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
