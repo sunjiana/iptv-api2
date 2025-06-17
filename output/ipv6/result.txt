@@ -20,8 +20,6 @@
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 
-☘️辽宁频道,#genre#
-
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
@@ -61,4 +59,4 @@
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-06-17 18:56:55,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+2025-06-18 07:01:39,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
