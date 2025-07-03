@@ -29,8 +29,6 @@
 邯郸科技教育,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 
-☘️贵州频道,#genre#
-
 ☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
@@ -54,4 +52,4 @@
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-07-03 18:41:13,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+2025-07-04 06:41:18,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
