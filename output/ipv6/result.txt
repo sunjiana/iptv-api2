@@ -42,4 +42,4 @@
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-08-15 19:37:21,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+2025-08-16 06:26:07,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
