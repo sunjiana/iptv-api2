@@ -3,8 +3,6 @@
 📡卫视频道,#genre#
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 
-☘️广东频道,#genre#
-
 ☘️浙江频道,#genre#
 
 ☘️重庆频道,#genre#
@@ -15,11 +13,7 @@
 
 ☘️广西频道,#genre#
 
-☘️天津频道,#genre#
-
 ☘️四川频道,#genre#
-
-☘️福建频道,#genre#
 
 ☘️河南频道,#genre#
 
@@ -35,8 +29,6 @@
 
 ☘️安徽频道,#genre#
 
-☘️吉林频道,#genre#
-
 ☘️青海频道,#genre#
 
 🌊港·澳·台,#genre#
@@ -50,4 +42,4 @@
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-10-25 18:29:24,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+2025-10-26 06:28:19,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
